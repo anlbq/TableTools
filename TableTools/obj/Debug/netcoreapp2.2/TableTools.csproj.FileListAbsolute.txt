@@ -1,0 +1,11 @@
+D:\Users\Tool\TableTools\TableTools\bin\Debug\netcoreapp2.2\TableTools.deps.json
+D:\Users\Tool\TableTools\TableTools\bin\Debug\netcoreapp2.2\TableTools.runtimeconfig.json
+D:\Users\Tool\TableTools\TableTools\bin\Debug\netcoreapp2.2\TableTools.runtimeconfig.dev.json
+D:\Users\Tool\TableTools\TableTools\bin\Debug\netcoreapp2.2\TableTools.dll
+D:\Users\Tool\TableTools\TableTools\obj\Debug\netcoreapp2.2\TableTools.csprojAssemblyReference.cache
+D:\Users\Tool\TableTools\TableTools\obj\Debug\netcoreapp2.2\TableTools.csproj.CoreCompileInputs.cache
+D:\Users\Tool\TableTools\TableTools\obj\Debug\netcoreapp2.2\TableTools.AssemblyInfoInputs.cache
+D:\Users\Tool\TableTools\TableTools\obj\Debug\netcoreapp2.2\TableTools.AssemblyInfo.cs
+D:\Users\Tool\TableTools\TableTools\bin\Debug\netcoreapp2.2\TableTools.pdb
+D:\Users\Tool\TableTools\TableTools\obj\Debug\netcoreapp2.2\TableTools.dll
+D:\Users\Tool\TableTools\TableTools\obj\Debug\netcoreapp2.2\TableTools.pdb
